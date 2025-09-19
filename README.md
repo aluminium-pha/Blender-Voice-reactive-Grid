@@ -2,3 +2,5 @@ This project generates a grid of cubes in Blender that move in real time based o
 Cubes react to the loudness of your microphone audio:
 - Inner cubes respond to quieter sounds.  
 - Outer cubes react strongly to louder sounds, creating a wave-like effect.  
+
+NOTE: Might crash blender when running the script for the first time.
